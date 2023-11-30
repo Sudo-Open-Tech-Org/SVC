@@ -32,3 +32,4 @@ echo "$username:$password" | chpasswd
 
 echo "User '$username' created with password '$password'."
 
+### This is beautiully put together by bmbah
